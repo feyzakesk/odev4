@@ -1,0 +1,28 @@
+/* class -> .text-red {} */
+/* id -> # id-bilgisi {} */
+
+h1 ,h2 {
+    text-align: center;
+    text-decoration-style: wavy;
+    font-family: Verdana, Geneva, sans-serif;
+
+}
+
+h3 {
+    font-family: Verdana, Geneva, sans-serif;
+    
+}
+
+p{
+    font-family: Verdana, Geneva, sans-serif;
+
+}
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+img {
+    border: 15px solid rgba(171, 99, 5, 0.918);
+}
+
